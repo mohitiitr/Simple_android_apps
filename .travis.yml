@@ -60,7 +60,6 @@ script:
     - ./gradlew connectedCheck coveralls -PdisablePreDex --stacktrace
 
 before_install:
-    - cd android-design-library
     - pip install --user codecov    #Install codecov
 
 after_success:
