@@ -50,10 +50,22 @@ public class Step2Activity extends AppCompatActivity {
         mIncrementBt = (Button) findViewById(R.id.increment_bt);
 
         // Set onClickListener
-
+        mIncrementBt.setOnClickListener(view -> valueRepository.accept(valueRepository.get() + 1));
         // Create complex repository:
+        textValueRepository = Repositories.repositoryWithInitialValue("N/A")
+                .observe(valueRepository)
+                .onUpdatesPerLoop()
+                .getFrom(valueRepository)
+                .thenTransform(input -> String.format("%d", input))
+                .compile();
         // textValueRepository = Repositories.repositoryWithInitialValue("N/A")
-
+        mTextValueUpdatable = new Updatable() {
+            @Override
+            public void update() {
+                mValueTv.setText(textValueRepository.get());
+            }
+        };
+        mTextValueUpdatable = () -> mValueTv.setText(textValueRepository.get());
         // Create updatable
     }
 
@@ -61,6 +73,7 @@ public class Step2Activity extends AppCompatActivity {
     protected void onStart() {
         super.onStart();
         // Add updatables here.
+        textValueRepository.addUpdatable(mTextValueUpdatable);
     }
 
     @Override
