@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/searce/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.3.1/ecb6e1f8e4b0e84c4b886c2f14a1500caf309757/gson-2.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ecb6e1f8e4b0e84c4b886c2f14a1500caf309757">
+        <dex dex="/home/searce/GIT/Git_app/android-network-manager/network-manager/app/build/intermediates/transforms/dex/debug/folders/1000/10/gson-2.3.1_6988ab90d86cc2fd8f43be2d81e0c114743b7565/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/searce/GIT/Git_app/android-network-manager/network-manager/app/build/intermediates/exploded-aar/com.android.support/design/23.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="19026d31f5d3ae868db81319671a642be5fbba08">
+        <dex dex="/home/searce/GIT/Git_app/android-network-manager/network-manager/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-23.1.0_fec6c0d3aa7ee9dd7774541b9336483ce65386ba/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/searce/GIT/Git_app/android-network-manager/network-manager/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="57ae0d750ff83f0c738d21720224ac7ea866a094">
+        <dex dex="/home/searce/GIT/Git_app/android-network-manager/network-manager/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.1.0_58dabf6eb274667964486683c523a7c0362dda5a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/searce/GIT/Git_app/android-network-manager/network-manager/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d0dda274b703dd9c5bb056867649d22b4171ae7d">
+        <dex dex="/home/searce/GIT/Git_app/android-network-manager/network-manager/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-8.1.0_88d120a3e6285d5493fc00b490add40306788f7d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/searce/GIT/Git_app/android-network-manager/network-manager/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6217a2dc687363b95609751188a28c7b3ef3fd64">
+        <dex dex="/home/searce/GIT/Git_app/android-network-manager/network-manager/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_f182d54208156f0669dcef5b9b78dc9a19d4e6dd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/searce/GIT/Git_app/android-network-manager/network-manager/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.0/jars/libs/internal_impl-23.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8716243bf04bae8d6c9ca94d27b9a9be7236f0a3">
+        <dex dex="/home/searce/GIT/Git_app/android-network-manager/network-manager/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.1.0_ab741a781c944e21fb409194edf56ba7098ee68b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/searce/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.1.0/support-annotations-23.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="92e3fc113ec3ee36b64603a38857b95700025633">
+        <dex dex="/home/searce/GIT/Git_app/android-network-manager/network-manager/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.1.0_b623e2cd6ffc63fd198c6a80ae12ea26083c4375/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/searce/GIT/Git_app/android-network-manager/network-manager/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="3f151e49c316a5ab2c065969a3b3b55ef9b393fc">
+        <dex dex="/home/searce/GIT/Git_app/android-network-manager/network-manager/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-23.1.0_6990df3fa091c6a47fe5a9ea35ccc8374bc73323/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/searce/GIT/Git_app/android-network-manager/network-manager/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="82825756edeeb3b56b15e73b2edd56e93da5a444">
+        <dex dex="/home/searce/GIT/Git_app/android-network-manager/network-manager/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-base-8.1.0_30acf81fd6ff1af7e5ed2686b751a8e40fc3fe9a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/searce/GIT/Git_app/android-network-manager/network-manager/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/8.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="dcb5b75baf05d92e61d5706737200ee55949f97b">
+        <dex dex="/home/searce/GIT/Git_app/android-network-manager/network-manager/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-gcm-8.1.0_be4f63c090610fa431ef26542fb40a848d501d44/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/searce/GIT/Git_app/android-network-manager/network-manager/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="1e3b6db738305338968e0f526d5dc4b5180520ca">
+        <dex dex="/home/searce/GIT/Git_app/android-network-manager/network-manager/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_017b10147618f92edade96e3c993bf569ab71550/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/searce/GIT/Git_app/android-studio/gradle/m2repository/commons-io/commons-io/2.4/commons-io-2.4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="b1b6ea3b7e4aa4f492509a4952029cd8e48019ad">
+        <dex dex="/home/searce/GIT/Git_app/android-network-manager/network-manager/app/build/intermediates/transforms/dex/debug/folders/1000/10/commons-io-2.4_0943919a8e8345dae7f7422f440e1b28a69aed26/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/searce/GIT/Git_app/android-network-manager/network-manager/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ddde541c289c8b816a8f8fd6c325d80788c522a6">
+        <dex dex="/home/searce/GIT/Git_app/android-network-manager/network-manager/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.1.0_2df0eb353b2c17a079bf0c019ef580d4d4427963/classes.dex" />
+    </item>
+
+</items>
